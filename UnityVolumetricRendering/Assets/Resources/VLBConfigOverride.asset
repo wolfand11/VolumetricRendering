@@ -17,8 +17,8 @@ MonoBehaviour:
   geometryTag: Untagged
   geometryRenderQueue: 3000
   geometryRenderQueueHD: 3100
-  m_RenderPipeline: 0
-  m_RenderingMode: 1
+  m_RenderPipeline: 1
+  m_RenderingMode: 3
   ditheringFactor: 0
   useLightColorTemperature: 1
   sharedMeshSides: 24

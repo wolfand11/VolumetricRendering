@@ -1,0 +1,3 @@
+[submodule "UnityVolumetricRendering/Assets/Common/UnityCommonUtils"]
+	path = UnityVolumetricRendering/Assets/Common/UnityCommonUtils
+	url = git@github.com:wolfand11/UnityCommonUtils.git
